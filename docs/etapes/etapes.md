@@ -7,13 +7,13 @@ has_children: true
 
 # Étapes de Fabrication
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Bienvenue dans la section dédiée aux étapes de fabrication de notre version de la Darwin. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
 
 ## Aperçu des Étapes
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
-1. [Préparation des Matériaux](etape_1)
+1. [Impression des pièces nécessaires](etape_1)
 2. [Assemblage](etape_2)
 3. [Finition]()
 4. [Contrôle Qualité]()
@@ -24,4 +24,8 @@ Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de 
 
 ---
 
-Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
+Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe aux adresses mails suivantes :
+aurelien.verhaeghe@etu.unilasalle.fr
+cyrille.miramont@etu.unilasalle.fr
+matteo.dumont@etu.unilasalle.fr
+robin.verhaeghe@etu.unilasalle.fr
