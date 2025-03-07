@@ -25,7 +25,12 @@ Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de 
 ---
 
 Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe aux adresses mails suivantes :
+
+
 aurelien.verhaeghe@etu.unilasalle.fr
+
 cyrille.miramont@etu.unilasalle.fr
+
 matteo.dumont@etu.unilasalle.fr
+
 robin.verhaeghe@etu.unilasalle.fr
