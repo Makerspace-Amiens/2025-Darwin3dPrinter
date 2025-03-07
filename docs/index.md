@@ -12,7 +12,7 @@ Bienvenue dans la documentation du projet qui consiste à reconstruire la Darwin
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+L'objectif de notre projet est de reproduire la toute première imprimante 3D open-source. C'est à la fois un défi technique mais aussi historique. Ainsi, nous   avions comme contraintes de garder l'esprit open-source et les principes de conception de la Darwin tout en intégrant des technologies actuelles. 
 
 ## Poster
 
