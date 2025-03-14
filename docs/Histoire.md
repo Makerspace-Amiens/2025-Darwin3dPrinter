@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etapes de fabrication
+title: L'histoire de l'impression 3D
 nav_order: 3
 has_children: true
 ---
