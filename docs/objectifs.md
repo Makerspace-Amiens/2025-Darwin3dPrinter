@@ -1,25 +1,38 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 4
 title: Objectifs du projet
 ---
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+L’impression 3D a connu un essor fulgurant grâce à des projets visionnaires comme la RepRap Darwin. Ce projet vise à reconstruire cette imprimante emblématique, tout en intégrant des technologies modernes pour en améliorer les performances et la fiabilité.
 
-## Contexte du Projet
-
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Notre projet se structure en 2 axes : préserver un héritage technique majeur et démontrer l'évolution de la fabrication additive en conciliant innovation et respect des principes open-source. En recréant la Darwin, nous mettons en lumière les fondements de l'impression 3D collaborative, tout en partageant les connaissances acquises avec la communauté des makers et des passionnés.
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Objectifs principaux :
+
+Reconstitution fidèle : Reproduire une imprimante Darwin fonctionnelle en s'appuyant sur les plans originaux.
+
+Documentation de l'impact : Analyser et documenter l'influence du projet RepRap sur l'évolution de l'impression 3D.​
+
+Modernisation : Mettre à jour certains composants en respectant l'esprit open-source du projet initial.​
+
+Documentation exhaustive : Fournir des guides détaillés pour faciliter la reproduction du modèle par d'autres.
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+​Les contraintes de notre cahier des charges s'articule autour des points suivants :​
+
+Fidélité et Innovation : Respecter les principes de conception de la Darwin tout en intégrant des technologies actuelles.
+
+Reproduction des pièces : Trouver ou recréer les pièces mécaniques nécessaires.
+
+Mis à jour électronique : Adapter l’électronique avec des cartes et firmwares modernes.
+
+Etat d'esprit de l'époque : Maintenir l’esprit open-source et accessible du projet RepRap.
