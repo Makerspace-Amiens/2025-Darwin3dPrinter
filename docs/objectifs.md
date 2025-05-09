@@ -22,9 +22,6 @@ Modernisation : Mettre à jour certains composants en respectant l'esprit open-s
 
 Documentation exhaustive : Fournir des guides détaillés pour faciliter la reproduction du modèle par d'autres.
 
-# Existant
-
-
 # Cahier des Charges
 
 ​Les contraintes de notre cahier des charges s'articule autour des points suivants :​
