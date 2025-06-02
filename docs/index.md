@@ -34,6 +34,6 @@ Nous tenons à remercier l’école d'UniLaSalle Amiens qui nous a offert l’op
 
 Nous adressons nos remerciements les plus sincères à Adrien Bracq, notre encadrant, pour son accompagnement rigoureux, sa disponibilité constante et la qualité de ses conseils tout au long de ce projet. Son expertise nous a été précieuse à chaque étape, tant dans la compréhension du projet que dans la résolution des difficultés rencontrées.
 
-Nous souhaitons également exprimer notre profonde gratitude à Rémy Lacombe, dont la patience, l’écoute et la bienveillance nous ont été d’un grand soutien. Il a su répondre à nos nombreuses interrogations, même les plus simples, avec pédagogie et encouragement, ce qui a grandement contribué à notre progression.
+Nous souhaitons également exprimer notre profonde gratitude à Rémi Lacombe, dont la patience, l’écoute et la bienveillance nous ont été d’un grand soutien. Il a su répondre à nos nombreuses interrogations, même les plus simples, avec pédagogie et encouragement, ce qui a grandement contribué à notre progression.
 
 Enfin, nous remercions l’ensemble du personnel pédagogique et technique de l’école pour leur implication, ainsi que tous nos camarades pour les échanges constructifs et l’entraide qui ont enrichi cette expérience.
