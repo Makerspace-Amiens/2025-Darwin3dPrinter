@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet qui consiste à reconstruire la Darwin, la première imprimante 3D open-source de la famille RepRap. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![Imprimante Darwin](images/notre_darwin.jpg)
+![Imprimante Darwin](images/notre_darwin.JPG)
 
 ## À propos du Projet
 
