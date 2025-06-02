@@ -57,4 +57,5 @@ Cette section décrit les pièces qu'il faut imprimer et la quantité nécessair
 | Z tensioner clamp    | Pince pour bloquer la tension de courroie                                    |    1     |[z-tensioner-clamp.stl](piece_3d/z-tensioner-clamp.stl)             |       |
 | Z tensioner idler    | Poulie libre pour guider la courroie                                         |    1     |[z-tensioner-idler.stl](piece_3d/z-tensioner-idler.stl)             |       |
 
+Voici le dossier des pièces complet au besoin : [Dossier complet](piece_3d/Reprap-cartesian-bot-1.0.5.zip)
 
