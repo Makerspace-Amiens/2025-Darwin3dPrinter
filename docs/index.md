@@ -6,13 +6,19 @@ title: Accueil
 
 # Bienvenue sur notre documentation
 
-Bienvenue dans la documentation du projet qui consiste à reconstruire la Darwin, la première imprimante 3D open-source de la famille RepRap. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet qui consiste à reconstruire la première imprimante 3D open-source de la famille RepRap.  
+Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.  
+Nous sommes fiers qu’en partageant chaque étape de notre démarche (historique, conception, essais, difficultés et solutions), nous avons participons à l’esprit de l'open source d'origine du projet.
 
-![Imprimante Darwin](images/notre_darwin.JPG)
+<p align="center">
+  <img src="images/notre_darwin.JPG" alt="Imprimante 3D Darwin" width="600">
+</p>
 
 ## À propos du Projet
 
-L'objectif de notre projet est de reproduire la toute première imprimante 3D open-source. C'est à la fois un défi technique mais aussi historique. Ainsi, nous   avions comme contraintes de garder l'esprit open-source et les principes de conception de la Darwin tout en intégrant des technologies actuelles. 
+Notre objectif est de reproduire la Darwin, première imprimante 3D open-source de 2007, qui a posé les bases du projet RepRap. En relevant ce défi historique, nous cherchons à conserver l’esprit autoreproductible et collaboratif tout en modernisant la mécanique et l’électronique pour la rendre compatible avec les standards actuels.
+
+En partageant chaque étape (CAO, assemblage, tests et calibrages), nous contribuons à la diffusion des connaissances en impression 3D, à l’image de la philosophie open-source qui a toujours animé la communauté RepRap.  
 
 ## Poster
 
@@ -20,14 +26,6 @@ L'objectif de notre projet est de reproduire la toute première imprimante 3D op
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ## Remerciements
