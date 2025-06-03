@@ -17,9 +17,9 @@ Cette section décrit les pièces qu'il faut imprimer et la quantité nécessair
 |------------------------|--------------------------------------------------------------------|:--------:|-------------|-------|
 | Corner brackets        | Brackets d’assemblage des coins de la structure                    |    8     |[corner-bracket.stl](../piece_3d/Corner-bracket.stl)             |       |
 | Diagonal tie bracket   | Support triangulaire pour rigidifier la structure                  |   20     |[diagonal-tie-bracket.stl](../piece_3d/Diagonal-tie-bracket.stl)             |       |
-| Bed constraint bracket | Maintien du plateau (empêche le déplacement latéral du bed)        |    4     |[bed-constraint-bracket.stl](../piece_3d/Bed-constraint-bracket.stl)             |[bed-constraint-bracket.jpg](../images/bed-constraint-bracket.jpg)        |
-| Bed corner             | Support d’angle pour le plateau d’impression                       |    4     |[bed-corner.stl](../piece_3d/Bed-corner.stl)              |[bed-corner.jpg](../images/bed-corner.jpg)         |
-| Bed clamp              | Pince pour maintenir le plateau sur la structure                   |    4     |[bed-clamp.stl](../piece_3d/Bed-clamp.stl)             |[bed-clamp.jpg](../images/bed-clamp.jpg)        |
+| Bed constraint bracket | Maintien du plateau (empêche le déplacement latéral du bed)        |    4     |[bed-constraint-bracket.stl](../piece_3d/Bed-constraint-bracket.stl)             |![bed-constraint-bracket](../images/bed-constraint-bracket.jpg)        |
+| Bed corner             | Support d’angle pour le plateau d’impression                       |    4     |[bed-corner.stl](../piece_3d/Bed-corner.stl)              |![bed-corner](../images/bed-corner.jpg)         |
+| Bed clamp              | Pince pour maintenir le plateau sur la structure                   |    4     |[bed-clamp.stl](../piece_3d/Bed-clamp.stl)             |![bed-clamp](../images/bed-clamp.jpg)        |
 
 ---
 
