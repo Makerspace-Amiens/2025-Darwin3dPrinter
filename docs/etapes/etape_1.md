@@ -15,11 +15,11 @@ Cette section décrit les pièces qu'il faut imprimer et la quantité nécessair
 
 | Nom                    | À quoi ça sert                                                    | Quantité | Fichier STL | Image |
 |------------------------|--------------------------------------------------------------------|:--------:|-------------|-------|
-| Corner brackets        | Brackets d’assemblage des coins de la structure                    |    8     |[corner-bracket.stl](/2025-Darwin3dPrinter/piece_3d/corner-bracket.stl)             |       |
-| Diagonal tie bracket   | Support triangulaire pour rigidifier la structure                  |   20     |[diagonal-tie-bracket.stl](/piece_3d/diagonal-tie-bracket.stl)             |       |
-| Bed constraint bracket | Maintien du plateau (empêche le déplacement latéral du bed)        |    4     |[bed-constraint-bracket.stl](/piece_3d/bed-constraint-bracket.stl)             |       |
-| Bed corner             | Support d’angle pour le plateau d’impression                       |    4     |[bed-corner.stl]./piece_3d/bed-corner.stl)              |       |
-| Bed clamp              | Pince pour maintenir le plateau sur la structure                   |    4     |[bed-clamp.stl].(/piece_3d/bed-clamp.stl)             |       |
+| Corner brackets        | Brackets d’assemblage des coins de la structure                    |    8     |[corner-bracket.stl](../piece_3d/Corner-bracket.stl)             |       |
+| Diagonal tie bracket   | Support triangulaire pour rigidifier la structure                  |   20     |[diagonal-tie-bracket.stl](/piece_3d/Diagonal-tie-bracket.stl)             |       |
+| Bed constraint bracket | Maintien du plateau (empêche le déplacement latéral du bed)        |    4     |[bed-constraint-bracket.stl](/piece_3d/Bed-constraint-bracket.stl)             |       |
+| Bed corner             | Support d’angle pour le plateau d’impression                       |    4     |[bed-corner.stl](/piece_3d/Bed-corner.stl)              |       |
+| Bed clamp              | Pince pour maintenir le plateau sur la structure                   |    4     |[bed-clamp.stl].(/piece_3d/Bed-clamp.stl)             |       |
 
 ---
 
