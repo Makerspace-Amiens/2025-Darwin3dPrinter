@@ -19,7 +19,7 @@ Cette section décrit les pièces qu'il faut imprimer et la quantité nécessair
 | Diagonal tie bracket   | Support triangulaire pour rigidifier la structure                  |   20     |[diagonal-tie-bracket.stl](/piece_3d/Diagonal-tie-bracket.stl)             |       |
 | Bed constraint bracket | Maintien du plateau (empêche le déplacement latéral du bed)        |    4     |[bed-constraint-bracket.stl](/piece_3d/Bed-constraint-bracket.stl)             |       |
 | Bed corner             | Support d’angle pour le plateau d’impression                       |    4     |[bed-corner.stl](/piece_3d/Bed-corner.stl)              |       |
-| Bed clamp              | Pince pour maintenir le plateau sur la structure                   |    4     |[bed-clamp.stl].(/piece_3d/Bed-clamp.stl)             |       |
+| Bed clamp              | Pince pour maintenir le plateau sur la structure                   |    4     |[bed-clamp.stl].([/piece_3d/Bed-clamp.stl](https://raw.githubusercontent.com/Makerspace-Amiens/2025-Darwin3dPrinter/main/docs/piece_3d/Bed-clamp.stl))             |       |
 
 ---
 
