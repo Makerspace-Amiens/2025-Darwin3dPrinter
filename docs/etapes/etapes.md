@@ -14,9 +14,9 @@ Bienvenue dans la section dédiée aux étapes de fabrication de notre version d
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
 1. [Impression des pièces nécessaires](etape_1)
-2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
+2. [Commandes à réaliser](etape_2)
+3. [Assemblage](etape_3)
+4. [Electronique](etape_4)
 
 ## Commencer
 
