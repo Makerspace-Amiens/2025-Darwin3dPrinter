@@ -123,7 +123,6 @@ Le montage se compose des éléments suivants :
 <p align="center">
   <img src="../images/bed_corner2.jpg" alt="Bed Corner et Constraint Bracket" width="400px" style="display: block; margin: auto;" />
 </p>
-![Bed Corner et Constraint Bracket](../images/20250520_104822.jpg){ style="display: block; margin: auto; width: 300px;" }
 
 ---
 
