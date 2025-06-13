@@ -30,5 +30,8 @@ Les technologies de chauffage d’époque rendent la montée en température len
 
 # Projet existant
 
-# Nos choix et améliorations
+<p align="center">
+<img src="../images/darwinevo1.jpg" alt="La darwin evo" width="400px" style="display: block; margin: auto;" />
+</p>
+
 
