@@ -238,6 +238,9 @@ La solution : acheter une courroie plus grande, la découper puis la refermer so
 | 2 | Aligner soigneusement les dents face à face pour reconstituer une courroie continue. |
 | 3 | Épingler dent par dent avec des épingles de couture ≤ 0,5 mm de diamètre. |
 | 4 | Renfort : coller au dos un troisième morceau de courroie avec de la colle néoprène. |
+<p align="center">
+  <img src="../images/courroie.png" alt="courroie" width="400px" style="display: block; margin: auto;" />
+</p>
 
 ## 4. Mise en place & réglages
 
