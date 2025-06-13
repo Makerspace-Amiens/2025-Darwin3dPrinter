@@ -26,7 +26,9 @@ En partageant chaque étape (CAO, assemblage, tests et calibrages), nous contrib
 
 ## Vidéo
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+Vous pouvez retrouver la vidéo de présentation de notre projet sur le lien suivant :
+
+https://youtube.com/shorts/6nFDiHbBPig?si=J24U8QqtGgtm-Lb4
 
 ## Remerciements
 
