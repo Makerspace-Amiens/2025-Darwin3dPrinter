@@ -219,6 +219,38 @@ Une fois la structure principale terminée, on installe le plateau de 38,5 cm x 
 
 Ce plateau repose sur la structure grâce à 4 bed-clamp qui maintiennent fermement le plateau sur les 	bed-constraint-bracket.
 
+---
+
+## Montage & découpage de la courroie du plateau Z
+
+Le plateau d’impression repose sur quatre tiges filetées.  
+Pour les synchroniser, on utilise une courroie unique qui passe sur les quatre poulies que le moteur Z entraîne.
+
+**Pourquoi couper et refermer la courroie ?**
+Trouver une courroie fermée assez longue pour ce périmètre est presque impossible.  
+La solution : acheter une courroie plus grande, la découper puis la refermer soi-même, en conservant sa rigidité et sa souplesse.
+
+## 3. Préparation de la jointure
+
+| Étape | Action | 
+|-------|--------|
+| 1 | Couper les deux extrémités de la courroie en biais (≈ 45 °). |
+| 2 | Aligner soigneusement les dents face à face pour reconstituer une courroie continue. |
+| 3 | Épingler dent par dent avec des épingles de couture ≤ 0,5 mm de diamètre. |
+| 4 | Renfort : coller au dos un troisième morceau de courroie avec de la colle néoprène. |
+
+## 4. Mise en place & réglages
+
+- Assurez-vous que les quatre poulies sont à la même hauteur avant d’installer la courroie.
+
+## 5. Contrôle final
+- Faites tourner manuellement le système : la courroie doit circuler sans sursaut au niveau de la jointure.  
+- Si une dent accroche : recouper/poncer très légèrement ou reprendre l’alignement.
+
+---
+
+##Rendu final
+
 <p align="center">
   <img src="../images/plateau.png" alt="plateau" width="400px" style="display: block; margin: auto;" />
 </p>
