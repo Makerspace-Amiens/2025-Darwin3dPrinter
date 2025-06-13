@@ -31,7 +31,9 @@ Les technologies de chauffage d’époque rendent la montée en température len
 # Projet existant
 
 <p align="center">
-<img src="../images/darwinevo1.jpg" alt="La darwin evo" width="400px" style="display: block; margin: auto;" />
+<img src="images/darwinevo1.jpg" alt="La darwin evo" width="400px" style="display: block; margin: auto;" />
+    <br />
+  <em>Imprimante <strong>Darwin Evo</strong></em>
 </p>
 
-
+Avant de débuter la conception de notre propre imprimante, nous nous sommes appuyés sur des recherches autour de la Darwin Evo, une évolution moderne de la RepRap Darwin. Étudier ce modèle nous a permis de mieux comprendre les limitations de la version originale, les améliorations apportées au fil du temps, ainsi que les choix techniques pertinents à reproduire ou adapter. Cette démarche nous a servi de base de réflexion pour concevoir une version fidèle à l’esprit du projet tout en étant compatible avec les composants disponibles aujourd’hui.
