@@ -26,9 +26,9 @@ En partageant chaque étape (CAO, assemblage, tests et calibrages), nous contrib
 
 ## Vidéo
 
-Vous pouvez retrouver la vidéo de présentation de notre projet sur le lien suivant :
+Vous pouvez retrouver la vidéo de présentation de notre projet en cliquant ici :
 
-https://youtube.com/shorts/6nFDiHbBPig?si=J24U8QqtGgtm-Lb4
+[Voir la vidéo](https://youtube.com/shorts/6nFDiHbBPig?si=J24U8QqtGgtm-Lb4)
 
 ## Remerciements
 
