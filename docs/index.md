@@ -30,6 +30,8 @@ Vous pouvez retrouver la vidéo de présentation de notre projet en cliquant ici
 
 [Voir la vidéo](https://youtube.com/shorts/6nFDiHbBPig?si=J24U8QqtGgtm-Lb4)
 
+---
+
 ## Remerciements
 
 Nous tenons à remercier l’école d'UniLaSalle Amiens qui nous a offert l’opportunité de réaliser ce projet de reproduction de l’imprimante Darwin dans le cadre de notre formation. Ce travail nous a permis de mettre en pratique les connaissances acquises au cours de notre cursus, tout en développant des compétences techniques, organisationnelles et collaboratives essentielles à notre future carrière.
